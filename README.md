@@ -106,3 +106,10 @@ Consiste en la manipulación directa de la matriz de píxeles:
   Polígono
   <img width="556" height="344" alt="image" src="https://github.com/user-attachments/assets/c6dda86b-44bb-4a57-a084-d157f04f3753" />
   Flor de vida
+  
+  **Referencias Bibliográficas**
+
+* **Blender Foundation.** (s.f.). *Blender Python API*. [https://docs.blender.org/api/current/](https://docs.blender.org/api/current/) 
+* **Hearn, D., Baker, M. P., & Carithers, W.** (2010). *Computer Graphics with OpenGL* (4ta ed.). Pearson. 
+* **Hughes, J. F., Van Dam, A., McGuire, M., Sklar, D. F., Foley, J. D., Feiner, S. K., & Akeley, K.** (2014). *Computer Graphics: Principles and Practice* (3ra ed.). Addison-Wesley Professional. 
+* **Python Software Foundation.** (2026, 25 de febrero). *Python 3.11.0 documentation*. [https://docs.python.org/3/](https://docs.python.org/3/) 
